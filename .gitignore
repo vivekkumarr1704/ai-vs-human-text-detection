@@ -1,0 +1,7 @@
+*.csv
+*.pkl
+hc3_raw/
+.cache/
+.venv/
+__pycache__/
+.DS_Store
