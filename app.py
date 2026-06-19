@@ -186,6 +186,6 @@ if page == "📊 Model Evaluation":
 # --------------------------------
 st.markdown("---")
 st.markdown(
-    "<p style='text-align:center;font-size:14px;'>Final Year Project | AI vs Human Text Detection</p>",
+    "<p style='text-align:center;font-size:14px;'>AI vs Human Text Detection</p>",
     unsafe_allow_html=True
 )

@@ -1,7 +1,11 @@
 *.csv
 *.pkl
 hc3_raw/
-.cache/
+venv/
 .venv/
 __pycache__/
+*.pyc
+.vscode/
 .DS_Store
+.cache/
+run.txt
