@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score,Dataset
+Logistic Regression,0.981,0.981,0.981,0.981,HC3
+Random Forest,0.993,0.993,0.993,0.993,HC3
+SVM (Linear),0.995,0.995,0.995,0.995,HC3
+Cross-Dataset Test,0.800,0.800,0.770,0.780,Kaggle
